@@ -1,0 +1,112 @@
+
+.navbar-nav{
+    margin-left: auto;
+    padding-right: 20%;
+}
+.navbar-brand{
+    padding-left: 90px;
+}
+
+
+.menu-bar{
+    min-height: 8%;
+    background-color: white
+}
+.nav-link{
+    color:black;
+}
+.nav-link:hover{
+    color: red ;
+
+}
+/* .navbar-toggler {
+    color: #fff;
+} */
+.navbar-toggler{
+    outline: none !important;
+}
+.active{
+    color: #000 !important;
+}
+.main{
+    margin-top: 120px;
+    margin-left: 97px;
+}
+.para{
+    margin-left: 97px ;
+}
+.pizza{
+    width: 100%;
+    height: 70%;
+    /* padding-left: 90px; */
+}
+
+.chef{
+    width: 100%;
+    height: 60%;
+}
+h3{
+    color: yellow;
+}
+
+.reason{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: yellow;
+}
+.us{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.mp{
+    align-items: center;
+    text-align: center;
+    /* justify-content: center; */
+}
+.clr{
+    color: yellow;
+    margin-left: 97px;
+}
+.head{
+    margin-left: 97px;
+}   
+.burger{
+    height: 50% ;
+    width: 100%;
+}
+.read{
+    color: yellow;
+}
+.news{
+    color: yellow;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.latest{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.sub{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: yellow;
+}
+.subs{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.footer{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
